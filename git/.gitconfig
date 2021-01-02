@@ -1,0 +1,5 @@
+[user]
+	email = horcicko.michal@gmail.com
+	name = Michal Horčičko
+[credential]
+        helper = store
