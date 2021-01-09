@@ -16,4 +16,5 @@ autocmd BufReadPost,FileReadPost,BufNewFile,BufEnter * call system("tmux rename-
 autocmd VimLeave * call system("tmux setw automatic-rename")
 set nofixeol
 set splitright
+set splitbelow
 set ignorecase
