@@ -118,6 +118,8 @@ fi
 
 
 # custom aliases
+alias vi=nvim
+alias vim=nvim
 alias pip=pip3
 alias python=python3
 alias venv='source venv/bin/activate'
